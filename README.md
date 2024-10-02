@@ -84,19 +84,8 @@ ArgoCD \
 <br>
 
 
-## 💁‍♂️ 담당 업무
-<div align=center>
- 
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/1294aa1f-3aca-471c-8bf0-aa8c42fd99d4)
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/68b60be0-2b73-4ce6-97fe-5a74400e1e3a)
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/76653bd9-de94-4dd8-a977-be669ad8ee7d)
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/21ab2938-d795-4108-82bb-710188172cab)
-![image](https://github.com/JJungeee/VintagePub/assets/142209884/c1e1c254-d119-4def-bebc-4fa06c2cbec1)
-
-</div>
 <br>
 <br>   
-
 
 ## 📖 상세 내용
 ### Infra Architecture
@@ -138,7 +127,7 @@ ArgoCD \
 </div>
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
- [AWS Hybrid Cloud Project](https://www.notion.so/AWS-Hybrid-Cloud-Project-efc24c8504b241fabcf3c548db8e0833?pvs=4)
+ [AWS Hybrid Cloud Project](https://shadow-isthmus-7e2.notion.site/AWS-Hybrid-Cloud-Project-6c5c22467f9a4ab78311f679f9a3229a?pvs=4)
  
  <br> 
  <br> 
